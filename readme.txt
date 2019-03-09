@@ -1,0 +1,1 @@
+Kodumuz code blocks ýdesinde çalýstýrýlýr. Graphics.h kutuphanesi eklenmelidir. 
